@@ -62,7 +62,7 @@ $autoload['packages'] = array();
 
 /*'form_validation' . 'session', 'database'*/
 
-$autoload['libraries'] = array();
+$autoload['libraries'] = array('form_validation', 'session', 'database');
 
 
 
@@ -97,7 +97,7 @@ $autoload['drivers'] = array();
 |	$autoload['helper'] = array('url', 'file');
 */
 /*penambahan helper ketika base url diubah ke halaman yg diinginkan*/
-$autoload['helper'] = array('url');
+$autoload['helper'] = array('url', 'form');
 
 /*
 | -------------------------------------------------------------------
