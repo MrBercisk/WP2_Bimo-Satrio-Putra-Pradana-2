@@ -25,7 +25,3 @@
             <div class="clear"></div>
         </header>
     </div>
-
-</body>
-
-</html>
