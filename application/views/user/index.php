@@ -23,3 +23,6 @@
                     <a href="<?= base_url('user/ubahprofil'); ?>" class="text text-white"><i class="fas fa-user-edit"></i> Ubah Profil</a>
                 </div>
             </div>
+        </div>
+    </div>
+</div>

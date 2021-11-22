@@ -97,7 +97,7 @@ $autoload['drivers'] = array();
 |	$autoload['helper'] = array('url', 'file');
 */
 /*penambahan helper ketika base url diubah ke halaman yg diinginkan*/
-$autoload['helper'] = array('url', 'form');
+$autoload['helper'] = array('url', 'form',  'pustaka', 'file');
 
 /*
 | -------------------------------------------------------------------
